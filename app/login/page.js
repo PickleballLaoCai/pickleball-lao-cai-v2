@@ -1,0 +1,2 @@
+import ModulePlaceholder from "../../components/ModulePlaceholder";
+export default function Page(){return <ModulePlaceholder icon="🔐" title="Đăng nhập" description="Authentication sẽ kết nối Supabase ở bước tiếp theo"/>}

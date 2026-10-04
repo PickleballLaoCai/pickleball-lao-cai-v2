@@ -1,0 +1,2 @@
+import ModulePlaceholder from "../../components/ModulePlaceholder";
+export default function Page(){return <ModulePlaceholder icon="⚙️" title="Quản trị" description="Phân quyền V2 sẽ được tách riêng và kiểm thử"/>}
